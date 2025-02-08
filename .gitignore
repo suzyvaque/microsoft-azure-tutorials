@@ -175,3 +175,4 @@ cython_debug/
 *.amltmp
 *.ipynb_aml_checkpoints/
 *.ipynb_aml_checkpoints
+.env
