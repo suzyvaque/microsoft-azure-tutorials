@@ -1,6 +1,15 @@
 # Prompt Flow
 pf_endpoint_url=<promptflow-endpoint>
-pf_api_key=<promptflow-key>
+pf_endpoint_url_fb=<promptflow-endpoint-feedback>
+pf_endpoint_name=<promptflow-endpoint-name>
+pf_endpoint_deployment=<promptflow-deployment-name>
+pf_api_key=<promptflow-api-key>
+
+# PromptFlow Monitoring
+resource_group=<resource_group>
+subscription_id=<subscription_id>
+ai_project_name=<ai_project_name>
+aoai_connection_name = ""
 
 app_insights_app_id=<application-insights-app-id>
 app_insights_api_key=<application-insights-instrumentation-key>
