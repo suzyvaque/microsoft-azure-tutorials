@@ -1,0 +1,20 @@
+# Prompt Flow
+pf_endpoint_url=<promptflow-endpoint>
+pf_api_key=<promptflow-key>
+
+app_insights_app_id=<application-insights-app-id>
+app_insights_api_key=<application-insights-instrumentation-key>
+tracing_key=<instrumentation-key>
+
+# AI Foundry Workshop
+PROJECT_CONNECTION_STRING=<ai-project-connection-string>
+MODEL_DEPLOYMENT_NAME="gpt-4o"
+EMBEDDING_MODEL_DEPLOYMENT_NAME= "text-embedding-ada-2"
+TENANT_ID=<your-tenant-id>
+GROUNDING_WITH_BING_CONNECTION_NAME=<your-bing-search-connection-name>
+SERVERLESS_MODEL_NAME=<your-serverless-model-name>
+AZURE_TRACING_GEN_AI_CONTENT_RECORDING_ENABLED=true
+AZURE_SDK_TRACING_IMPLEMENTATION=opentelemetry
+VITE_API_URL=https://localhost:8003
+VITE_DEFAULT_THEME=dark
+VITE_API_VERSION=v1
